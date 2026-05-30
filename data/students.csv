@@ -1,0 +1,13 @@
+id,name,grade_level,avg_score,engagement_score,study_hours_week,login_count,completion_rate
+1,Alice Nguyen,10,88.5,82.0,9.5,120,0.92
+2,Brian Carter,10,54.0,40.0,3.0,32,0.45
+3,Chloe Smith,11,73.2,68.5,6.0,88,0.78
+4,David Lee,11,46.5,35.0,2.5,21,0.38
+5,Emma Wilson,9,91.0,88.0,11.0,150,0.95
+6,Faisal Khan,9,62.0,55.0,4.5,60,0.60
+7,Grace Park,12,79.5,72.0,7.5,102,0.83
+8,Hiro Tanaka,12,58.0,48.0,3.5,40,0.50
+9,Isla Murphy,10,84.0,77.5,8.0,110,0.88
+10,Jacob Brown,11,49.0,42.0,2.0,18,0.40
+11,Kavya Rao,9,95.0,90.0,12.0,160,0.97
+12,Liam O'Brien,12,66.5,60.0,5.0,70,0.66
