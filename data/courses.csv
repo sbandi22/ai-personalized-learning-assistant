@@ -1,0 +1,13 @@
+id,title,subject,difficulty,tags,description
+1,Algebra Foundations,Math,0.30,equations algebra variables,Core algebra skills for beginners
+2,Geometry Essentials,Math,0.45,shapes angles proofs,Fundamentals of plane geometry
+3,Calculus I,Math,0.80,limits derivatives integrals,Introductory differential calculus
+4,Intro to Python,CS,0.35,programming python loops,Beginner friendly Python programming
+5,Data Structures,CS,0.70,algorithms trees graphs,Core computer science data structures
+6,Machine Learning Basics,CS,0.85,ml models regression,Foundations of supervised learning
+7,Cell Biology,Science,0.50,cells biology genetics,Structure and function of cells
+8,Physics Mechanics,Science,0.65,forces motion energy,Classical mechanics fundamentals
+9,Chemistry Reactions,Science,0.60,reactions bonds elements,Chemical reactions and bonding
+10,World History,Humanities,0.40,history civilizations events,Survey of world civilizations
+11,Essay Writing,Humanities,0.45,writing grammar essays,Academic writing and composition
+12,Statistics I,Math,0.55,statistics probability data,Descriptive and inferential statistics
